@@ -29,6 +29,14 @@ The prototype is built with Django REST Framework, React, TypeScript, MySQL, and
 | API communication | Axios |
 | Voice input | Browser speech recognition |
 
+## Technical Documentation
+
+For details about the system architecture, technology stack,
+application modules, implementation approach, and assumptions,
+refer to:
+
+[Technical Approach](docs/TECHNICAL_APPROACH.md)
+
 ## 3. Project Structure
 
 ```text
